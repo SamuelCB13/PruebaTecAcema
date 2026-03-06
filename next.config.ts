@@ -5,4 +5,10 @@ const nextConfig: NextConfig = {
   reactCompiler: true,
 };
 
+module.exports = {
+    images: {
+        domains: ["randomuser.me"]
+    }
+}
+
 export default nextConfig;
