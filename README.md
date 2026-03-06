@@ -1,3 +1,21 @@
+## 🚀 ¿Qué se realizó y qué no?
+
+Se alcanzó a realizar:
+
+- Diseño de Login. (/login)
+- Diseño de Listado de Usuarios. (/)
+- Listado de Usuarios provenientes de Mock, no de la API.
+- Edición de Usuarios con Zustand, los cambios viven en la sesión del navegador.
+- Eliminación de Usuarios con Zustand, los cambios viven en la sesión del navegador.
+- Diseño Responsive.
+
+No se alcanzó a realizar:
+
+- Login Funcional con credenciales.
+- Consumo de la API.
+- Paginación.
+- Filtro funcional.
+
 ## 🛠️ Tecnologías usadas
 
 - ⚡ **Next.js (App Router)**
@@ -11,7 +29,7 @@
 
 ## 📦 Requisitos
 
-Asegúrate de tener instalado:
+Tener instalado:
 
 - **Node.js** ≥ 18
 - **npm** o **pnpm** o **yarn**
